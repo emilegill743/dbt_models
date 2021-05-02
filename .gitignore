@@ -3,3 +3,5 @@
 */dbt_modules/
 */logs/
 venv
+profiles.yml
+github-actions-runner/
