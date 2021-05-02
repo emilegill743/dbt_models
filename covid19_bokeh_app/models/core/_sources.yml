@@ -1,0 +1,33 @@
+version: 2
+
+sources:
+  - name: covid19
+    description: 'Covid Data'
+    database: covid-19
+    schema: raw
+
+    tables:
+
+      - name: jhu_global_cases
+        description: ''
+      
+      - name: jhu_global_deaths
+        description: ''
+      
+      - name: jhu_lookup
+        description: ''
+
+      - name: jhu_us_cases
+        description: ''
+
+      - name: jhu_us_deaths
+        description: ''
+
+      - name: local_uk
+        description: ''
+
+      - name: owid_global_vaccinations
+        description: ''
+
+      - name: bloomberg_global_vaccinations
+        description: ''
