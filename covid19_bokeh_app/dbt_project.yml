@@ -19,4 +19,4 @@ clean-targets:
 
 models:
   covid19_bokeh_app:
-    materialized: table
+    materialized: view
